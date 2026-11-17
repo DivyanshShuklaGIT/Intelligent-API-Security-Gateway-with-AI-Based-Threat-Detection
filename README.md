@@ -261,8 +261,4 @@ See `gateway/.env.example` for the full list. Key variables:
 | `RATE_LIMIT_MAX_REQUESTS` | `100`                              | Requests per window        |
 | `ALERT_THROTTLE_MS`   | `60000`                                | Alert throttle interval    |
 
----
 
-## License
-
-MIT
